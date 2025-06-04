@@ -8,11 +8,16 @@
 
 ## My projects:
 #### **SECTA discord bot**:
-  - The ultimate discord bot, everything in one. AI security, translation to every language. All you'll ever need.
+  - The ultimate discord bot, everything in one. AI security, translation to every language. All you'll ever need. (abandoned)
   - Made mostly in python!
   - AI model: **gpt-4o-mini**
 #### **Java enjoyer discord bot**
   - A project i made 4fun to learn java. (abandoned)
+#### **Archer**
+  - SECTA's successor
+  - Extremely customizable with an advanced panel
+  - AI automod and support
+  - Translated to every language even fictional ones
 
 
 <!---
