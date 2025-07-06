@@ -15,6 +15,7 @@
   - I develop custom plugins, discord bot, website and I am the Co-Owner of the server
     #### IP: meteornet.online / 1.21.5
     #### WEBSITE: https://web.meteornet.online
+    ### DISCORD: https://discord.gg/meteornet
 ### **SECTA discord bot**:
   - The ultimate discord bot, everything in one. AI security, translation to every language. All you'll ever need. (abandoned)
   - Made mostly in python!
