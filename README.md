@@ -1,35 +1,59 @@
-## **ALL HAIL THE MONKE**
-#### About me
-- 👋 Hi, I’m @Kumenof
-- 👀 I’m interested in making money 💰💰
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Javascript is an abomination and should become illegal to use.
+<h2 align="left">Hi 👋! My name is Kaman and I'm a full-stack dev, from Poland</h2>
 
-## My projects:
-### **NIMP**
-  - A community server (used to be a minecraft guild server)
-  - I developed the discord bot
-### **Meteornet Minecraft server**
-  - Your chill minecrat server, no p2w
-  - I develop custom plugins, discord bot, website and I am the Co-Owner of the server
-    #### IP: meteornet.online / 1.21.5
-    #### WEBSITE: https://web.meteornet.online
-    ### DISCORD: https://discord.gg/meteornet
-### **SECTA discord bot**:
-  - The ultimate discord bot, everything in one. AI security, translation to every language. All you'll ever need. (abandoned)
-  - Made mostly in python!
-  - AI model: **gpt-4o-mini**
-### **Java enjoyer discord bot**
-  - A project i made 4fun to learn java. (abandoned)
-### **Archer**
-  - SECTA's successor
-  - Extremely customizable with an advanced panel
-  - AI automod and support
-  - Translated to every language even fictional ones
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumenof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kumenof&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kumenof&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!---
-Kumenof/Kumenof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="clion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Kumenof/Kumenof/output/snake.svg" alt="Snake animation" />
+
+###
