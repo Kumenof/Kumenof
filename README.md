@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kumenof&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Kumenof&theme=dracula" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kumenof&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Kumenof&theme=dracula" height="150" alt="trophy graph"/>
 </div>
 
 ###
